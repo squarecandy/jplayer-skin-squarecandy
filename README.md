@@ -2,5 +2,8 @@
 ## jplayer-skin-squarecandy
 
 A very simple, responsive trimmed down version of jplayer.
+
 No image files! Uses only FontAwesome icon fonts and css.
+
+
 
